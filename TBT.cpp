@@ -1,10 +1,6 @@
 /**************************************************************************
-      NAME -  Shriram Hemant Salunke
-      GR.No.- 21910486
-      Roll.No-233054
-      Ass.No.-03
-      Topic- TBT 
-      Under the guidance- Suruchi Dedgaonkar Maam
+ a) Construct an inorder threaded binary search tree.
+b) Traverse threaded binary tree it in inorder and preorder.
 ************************************************************************/
 #include<iostream>
 using namespace std;
