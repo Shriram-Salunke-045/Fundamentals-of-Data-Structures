@@ -1,1 +1,1 @@
-# Fundamentals-of-Data-Structure
+# Data-Structures and Algorithms
