@@ -1,11 +1,6 @@
 /******************************************************************************************
-
 a) Store data of students using hashing function for roll number and implement linear probing
 using chaining without replacement algorithm.
-
-b) Store data of students using hashing function for telephone number and implement linear
-probing using chaining with replacement algorithm.
-
 ********************************************************************************************/
 
 #include <iostream>
